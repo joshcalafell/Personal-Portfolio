@@ -2,13 +2,17 @@
 
 ## A little about me...
 
-I am a Senior Front End Engineer with 10+ years of experience in leading and developing web applications. Proven track record of success in designing, developing, and delivering high-quality user interfaces.
+I am a UI Deveoper/Architect with 10+ years of experience in planning, developing, and delivering high-quality user interfaces.
 
-have strong expertise in front-end technologies and frameworks including HTML, CSS/SCSS, JavaScript, TypeScript, NodeJS, Angular, React, Redux, Storybook and I have been trained to work with a variety of development processes such as CCD (Component Driven Development), TDD (Test Driven Development), Agile, and Kanban.
+I've worked extensively with front-end technologies and frameworks including HTML, CSS/SCSS, JavaScript, TypeScript, Node, Nx, Angular, React, Redux, Storybook and I have been trained to work with a variety of development processes such as CCD (Component Driven Development), TDD (Test Driven Development), Agile, and Kanban.
 
-Also, I have a foundational knowledge of data structures and common patterns and logic. Also, I have strong leadership and team-building skills and have served as an Architect and Team Lead for half of my career.
+I also have experience with state management techniques (Redux, NgRx, Flux, etc...), monorepos, micro front-ends, and integrating with APIs and other various back-end and cloud services (such as AWS and GCP). 
 
-Top Skills
+In addition, I have a foundational knowledge of data structures, algorithms, optimization, scalability, common design patterns, and programming paradigms -- along with strong leadership and team-building skills.
+
+Although I'm framework agnostic at heart, I'mm strongest with TypeScript / Angular. Enjoy my portfolio, it's a work in progress...
+
+## Top Skills
 * HTML, CSS, JavaScript, TypeScript
 * Angular (RxJs, NgRx), React (Redux), Vue
 * Wireframing, Prototyping, Storybook, Figma
